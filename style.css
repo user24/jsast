@@ -15,7 +15,7 @@ PRE {
 }
 #codeInput {
   width: 600px;
-  height: 250px;
+  height: 200px;
 }
 #inputPane {
   float: left;
@@ -29,7 +29,7 @@ PRE {
 #json {
   border: 1px solid #CCC;
   overflow: scroll;
-  height: 250px;
+  height: 200px;
   width: 550px;
 }
 #astPane {
