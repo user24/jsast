@@ -4,7 +4,7 @@ function onload(callback) {
     callback();
   } else if (typeof document.attachEvent != 'undefined') { // MSIE
     document.attachEvent('onreadystatechange', function() {
-      if (document.readyState == ' complete') {
+      if (document.readyState == 'complete') {
         callback();
       }
     });
