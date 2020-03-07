@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "esprima": "^4.0.1",
+    "gh-pages": "^2.2.0"
+  },
+  "homepage": "https://user24.github.io/jsast",
+  "scripts": {
+    "deploy": "gh-pages -b master -d ."
+  }
+}

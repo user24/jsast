@@ -1,8 +1,6 @@
 jsast
 =====
 
-Realtime JavaScript Abstract Syntax Tree Visualisation
+Abstract Syntax Tree Visualisation for JavaScript code using Esprima & canvas 
 
-Live demo: http://www.puremango.co.uk/jsast/
-
-(not necessarily latest version)
+Live demo: https://user24.github.io/jsast/
